@@ -1,4 +1,4 @@
-BaseURL = "http://xiaohaoppy.github.io/"
+BaseURL = "http://xiaohaoppy.daoapp.io/"
 LanguageCode = "zh-CN"
 HasCJKLanguage = true
 Title = "风海啸博客"
@@ -11,7 +11,7 @@ RSSUri = "feed.xml"
   Name = "风海啸"
 
 [Params]
-  AuthorHomepage = "http://xiaohaoppy.github.io/"
+  AuthorHomepage = "http://xiaohaoppy.daoapp.io/"
   BottomIntroduce = "Introduce1 <br/> Introduce2"
   Description = ""
   Subtitle = "莫问前路为何出，飘然一身在风中。"
@@ -33,8 +33,8 @@ RSSUri = "feed.xml"
   #[Params.Disqus]
   #  ShortName = "coderzh"
 
-  #[Params.GoogleAnalytics]
-  #  ID = "UA-10147768-2"
+  [Params.GoogleAnalytics]
+    ID = "UA-76508926-1"
 
   [Params.Strings]
     Search = "搜索"
