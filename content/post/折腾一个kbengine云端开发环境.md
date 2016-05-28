@@ -15,7 +15,7 @@ toc = true
 docker run -it -d -p 80:80 kdelfour/cloud9-docker
 ```
 浏览器访问http://192.168.59.103:80  
-![](http://xiaohaoppy.daoapp.io/img/cloud9_111.png)
+![](../img/cloud9_111.png)
 
 
 
@@ -61,4 +61,4 @@ cd assets/
 sh start_server.sh
 ```
 **最后效果**  
-![](http://xiaohaoppy.daoapp.io/img/cloud9_222.png)
+![](../img/cloud9_222.png)
