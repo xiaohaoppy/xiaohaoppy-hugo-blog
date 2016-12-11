@@ -1,4 +1,4 @@
-BaseURL = "http://xiaohaoppy.daoapp.io/"
+BaseURL = "https://haixiao.coding.me/"
 LanguageCode = "zh-CN"
 HasCJKLanguage = true
 Title = "风海啸博客"
@@ -11,7 +11,7 @@ RSSUri = "feed.xml"
   Name = "风海啸"
 
 [Params]
-  AuthorHomepage = "http://xiaohaoppy.daoapp.io/"
+  AuthorHomepage = "https://haixiao.coding.me/"
   BottomIntroduce = "Introduce1 <br/> Introduce2"
   Description = ""
   Subtitle = "莫问前路为何出，飘然一身在风中。"
